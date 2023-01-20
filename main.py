@@ -52,9 +52,26 @@ def freshinstall():
                 webbrowser.open_new_tab(url_list['url'])
                 print(url_list['name'])
         elif args.os == "linux":
-            for app in data["apps"]:
-                subprocess.run(["sudo", "apt-get", "install", "-y", app], shell=False)
-                print(data["name"])
+
+            file_name = "linux.toml"
+            file_path = os.path.join(current_directory, file_name)
+            # Read the TOML file
+            with open(file_path, 'r') as f:
+                data = toml.load(f)
+
+            for app in data["app"]:
+                confirm = input(f"Are you sure you want to install {app}? (y/n)")
+                if confirm.lower() == "y":
+                    try:
+                        subprocess.run(["sudo", "apt-get", "install", "-y", app], shell=False)
+                        print(data["name"])
+                    except:
+                        print(f"An error occurred while trying to install {app}. Skipping...")
+                        pass
+                else:
+                    print(f"Skipping installation of {app}.")
+
+
         elif args.os == "chrome":
             for url_list in data["extensions"]:
                 print(url_list["name"])
