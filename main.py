@@ -52,13 +52,13 @@ def freshinstall():
                 webbrowser.open_new_tab(url_list['url'])
                 print(url_list['name'])
         elif args.os == "linux":
-            for app in data["app"]:
+            for app in data["apps"]:
                 subprocess.run(["sudo", "apt-get", "install", "-y", app], shell=False)
                 print(data["name"])
         elif args.os == "chrome":
-            for url_list in data['url_list']:
-                print(url_list['name'])
-                webbrowser.open_new_tab(url_list['url'])
+            for url_list in data["extensions"]:
+                print(url_list["name"])
+                webbrowser.open_new_tab(url_list["url"])
     except FileNotFoundError:
         print(f"{file_name} not found in {current_directory}.")
     except:
