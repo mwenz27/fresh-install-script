@@ -1,0 +1,75 @@
+[[apps]]
+  name = "Google Chrome, a web browser"
+  app = "google-chrome.toml-stable"
+
+[[apps]]
+  name = "VLC, a media player"
+  app = "vlc"
+
+[[apps]]
+  name = "GIMP, an image editing software"
+  app = "gimp"
+
+[[apps]]
+  name = "Git, a version control system"
+  app = "git"
+
+[[apps]]
+  name = "htop, a process monitoring tool"
+  app = "htop"
+
+[[apps]]
+  name = "Sublime Text, a text editor"
+  app = "sublime-text"
+
+[[apps]]
+  name = "Terminator, a terminal emulator"
+  app = "terminator"
+
+[[apps]]
+  name = "Spotify, a music streaming service"
+  app = "spotify-client"
+
+[[apps]]
+  name = "Synaptic Package Manager, a package management tool"
+  app = "synaptic"
+
+[[apps]]
+  name = "VirtualBox, a virtualization software"
+  app = "virtualbox"
+
+[[apps]]
+  name = "Slack, a communication and collaboration platform"
+  app = "slack-desktop"
+
+[[apps]]
+  name = "Skype, a communication software"
+  app = "skypeforlinux"
+
+[[apps]]
+  name = "Steam, a digital distribution platform for video games"
+  app = "steam"
+
+[[apps]]
+  name = "Atom, a text editor and integrated development environment (IDE)"
+  app = "atom"
+
+[[apps]]
+  name = "Chromium, an open-source web browser"
+  app = "chromium-browser"
+
+[[apps]]
+  name = "Inkscape, a vector graphics editor"
+  app = "inkscape"
+
+[[apps]]
+  name = "Krita, a digital painting and illustration software"
+  app = "krita"
+
+[[apps]]
+  name = "Thunderbird, an email client"
+  app = "thunderbird"
+
+[[apps]]
+  name = "KeePassXC, a password manager"
+  app = "keepassxc"
