@@ -10,7 +10,7 @@ import webbrowser
 import subprocess
 
 parser = argparse.ArgumentParser()
-parser.add_argument("arg1", help="specify windows, mac, linux or chrome")
+parser.add_argument("arg1", help="specify windows, mac, linux or chrome.toml")
 args = parser.parse_args()
 
 
@@ -52,6 +52,8 @@ def freshinstall():
             "https://signal.org/download/windows/",
             # WhatsApp, a messaging app
             "https://www.whatsapp.com/download",
+            # Viber, a messaging app
+            "https://www.viber.com/en/download/",
             # MetaTrader 4, a trading platform for forex and other financial markets
             "https://www.metatrader4.com/en",
             # PyCharm, an integrated development environment (IDE) for Python
@@ -76,6 +78,8 @@ def freshinstall():
             "https://www.rescuetime.com/download",
             # Postman, a tool for API development and testing
             "https://www.postman.com/downloads/",
+            # Speed reading
+            "https://s3.amazonaws.com/flexframework/7SpeedReadingEX/7sr-ex-2019.0.1-main-win.exe",
         ]
 
         for url in url_list:
@@ -132,6 +136,8 @@ def freshinstall():
             "https://signal.org/download/windows/",
             # WhatsApp, a messaging app
             "https://www.whatsapp.com/download",
+            # Viber, a messaging app
+            "https://www.viber.com/en/download/",
             # MetaTrader 4, a trading platform for forex and other financial markets
             "https://www.metatrader4.com/en",
             # Brave, a web browser
@@ -160,7 +166,7 @@ def freshinstall():
 
         apps = [
             # Google Chrome, a web browser
-            "google-chrome-stable",
+            "google-chrome.toml-stable",
             # VLC, a media player
             "vlc",
             # GIMP, an image editing software
@@ -182,7 +188,7 @@ def freshinstall():
             # Slack, a communication and collaboration platform
             "slack-desktop",
             # Dropbox, a file hosting service
-            "dropbox",
+            # "dropbox",
             # Skype, a communication software
             "skypeforlinux",
             # Steam, a digital distribution platform for video games
@@ -205,7 +211,7 @@ def freshinstall():
             subprocess.run(["sudo", "apt-get", "install", "-y", app], shell=False)
             print(app)
 
-    elif args.arg1 == "chrome":
+    elif args.arg1 == "chrome.toml":
         extensions = [
             # AdBlock Plus, an ad blocker
             ("AdBlock Plus", "https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb"),
@@ -259,8 +265,17 @@ def freshinstall():
             # Wappalyzer, a tool for identifying web technologies used on websites
             ("Wappalyzer", "https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg"),
             # Postman, a tool for API development and testing
-            ("Postman", "https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop")
-
+            ("Postman", "https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop"),
+            # Diigo, book making app
+            ("Diigo", "https://chrome.google.com/webstore/detail/diigo-web-collector-captu/pnhplgjpclknigjpccbcnmicgcieojbh"),
+            # Yoroi, caradano lite wallet
+            ('Yoroi', "https://chrome.google.com/webstore/detail/yoroi/ffnbelfdoeiohenkjibnmadjiehjhajb"),
+            # Metamask, ETH wallet
+            ("Metamask","https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn/related"),
+            # Dictionary,
+            ("dictionay", "https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja"),
+            # Nami Wallet, cardano
+            ("Nami", "https://chrome.google.com/webstore/detail/nami/lpfcbjknijpeeillifnkikgncikgfhdo")
         ]
 
         for extension in extensions:

@@ -1,0 +1,103 @@
+[[url_list]]
+  name = "flux"
+  url = "https://justgetflux.com/"
+
+[[url_list]]
+  name = "Sublime Text, a popular text editor"
+  url = "https://www.sublimetext.com/download"
+
+[[url_list]]
+  name = "Git, a distributed version control system for software development"
+  url = "https://git-scm.com/download/win"
+
+[[url_list]]
+  name = "Visual Studio Code, a text editor and integrated development environment (IDE)"
+  url = "https://code.visualstudio.com/download"
+
+[[url_list]]
+  name = "Anaconda, a distribution of the Python and R programming languages for scientific computing and data science"
+  url = "https://www.anaconda.com/products/distribution"
+
+[[url_list]]
+  name = "PyCharm, an integrated development environment (IDE) for Python"
+  url = "https://www.jetbrains.com/pycharm/download"
+
+[[url_list]]
+  name = "Steam, a digital distribution platform for video games"
+  url = "https://store.steampowered.com/about/"
+
+[[url_list]]
+  name = "Discord, a popular communication and chat platform for gamers"
+  url = "https://discord.com/download"
+
+[[url_list]]
+  name = "VLC, a media player"
+  url = "https://www.videolan.org/vlc/index.html"
+
+[[url_list]]
+  name = "Spotify, a music streaming service"
+  url = "https://www.spotify.com/download/"
+
+[[url_list]]
+  name = "Google Earth, a virtual globe and map software"
+  url = "https://www.google.com/earth/versions/download-earth.html"
+
+[[url_list]]
+  name = "Slack, a communication and collaboration platform"
+  url = "https://slack.com/intl/en-au/download"
+
+[[url_list]]
+  name = "Zoom, a popular video conferencing software"
+  url = "https://zoom.us/download"
+
+[[url_list]]
+  name = "Telegram, a messaging app"
+  url = "https://telegram.org/apps"
+
+[[url_list]]
+  name = "Signal, a secure messaging app"
+  url = "https://signal.org/download/windows/"
+
+[[url_list]]
+  name = "WhatsApp, a messaging app"
+  url = "https://www.whatsapp.com/download"
+
+[[url_list]]
+  name = "Viber, a messaging app"
+  url = "https://www.viber.com/en/download/"
+
+[[url_list]]
+  name = "MetaTrader 4, a trading platform for forex and other financial markets"
+  url = "https://www.metatrader4.com/en"
+
+[[url_list]]
+  name = "Brave, a web browser"
+  url = "https://brave.com/download/"
+
+[[url_list]]
+  name = "Private Internet Access, a virtual private network (VPN) service"
+  url = "https://www.privateinternetaccess.com/download/windows-vpn"
+
+[[url_list]]
+  name = "Ninite, a website that allows you to easily download multiple popular software programs"
+  url = "https://ninite.com/"
+
+[[url_list]]
+  name = "7-zip, a file archiving software"
+  url = "https://www.7-zip.org/download.html"
+
+[[url_list]]
+  name = "Exodus, a cryptocurrency wallet"
+  url = "https://www.exodus.com/download/"
+
+[[url_list]]
+  name = "Plex, media server"
+  url = "https://www.plex.tv/media-server-downloads/?lang=en-au#plex-app"
+
+[[url_list]]
+  name = "Rescue Time, time management"
+  url = "https://www.rescuetime.com/download"
+
+[[url_list]]
+  name = "Postman, a tool for API development and testing"
+  url = "https://www.postman.com/downloads/"
