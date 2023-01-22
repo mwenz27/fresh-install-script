@@ -73,9 +73,9 @@ def freshinstall():
 
 
         elif args.os == "chrome":
-            for url_list in data["extensions"]:
-                print(url_list["name"])
-                webbrowser.open_new_tab(url_list["url"])
+            for extension in data["extensions"]:
+                print(extension["name"])
+                webbrowser.open_new_tab(extension["url"])
     except FileNotFoundError:
         print(f"{file_name} not found in {current_directory}.")
     except:
