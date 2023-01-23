@@ -99,5 +99,15 @@ name = "dictionay"
 url = "https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja"
 
 [[extensions]]
-name = "Nami"
+name = "Nami wallet"
 url = "https://chrome.google.com/webstore/detail/nami/lpfcbjknijpeeillifnkikgncikgfhdo"
+
+[[extensions]]
+name = "Google Docs"
+url = "https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi/related"
+
+[[extensions]]
+name = "Picture-in-Picture extension"
+url = "https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg/related?hl=en"
+
+
