@@ -23,7 +23,7 @@
   url = "https://ninite.com/"
 
 [[url_list]]
-  name = "Zoom, a popular video conferencing software\nDiscord, a popular communication and chat platform for gamers\nVLC, a media player\nSpotify, a music streaming service\nKrita, a digital painting and illustration software\nGreenshot, a screenshot software\nGoogle Earth, a virtual globe and map software\nSteam, a digital distribution platform for video games\n7-zip, a file archiving software\nAnaconda, a distribution of the Python and R programming languages"
+  name = "Anaconda, a distribution of the Python and R programming languages"
   url = "https://www.anaconda.com/"
 
 [[url_list]]
@@ -83,7 +83,7 @@
   url = "https://www.plex.tv/media-server-downloads/?lang=en-au#plex-app"
 
 [[url_list]]
-  name = "Rescue Time,"
+  name = "Rescue Time"
   url = "https://www.rescuetime.com/download"
 
 [[url_list]]
@@ -93,3 +93,12 @@
 [[url_list]]
   name = "Speed reading"
   url = "https://s3.amazonaws.com/flexframework/7SpeedReadingEX/7sr-ex-2019.0.1-main-win.exe"
+
+[[url_list]]
+  name = "Anki - flash card reader"
+  url = "https://apps.ankiweb.net/"
+
+
+[[url_list]]
+  name = "Microsoft Teams"
+  url = "https://www.microsoft.com/en-au/microsoft-teams/download-app#desktopAppDownloadregion"

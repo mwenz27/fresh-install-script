@@ -101,3 +101,7 @@
 [[url_list]]
   name = "Postman, a tool for API development and testing"
   url = "https://www.postman.com/downloads/"
+
+[[url_list]]
+  name = "Anki - flash card reader"
+  url = "https://apps.ankiweb.net/"
