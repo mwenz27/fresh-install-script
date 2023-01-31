@@ -110,4 +110,11 @@ url = "https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooek
 name = "Picture-in-Picture extension"
 url = "https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg/related?hl=en"
 
+[[extensions]]
+name = "Dualless - Singal Monitor"
+url = "https://chrome.google.com/webstore/detail/dualless/bgdpkilkheacbboffppjgceiplijhfpd"
 
+
+[[extensions]]
+name = "Translate"
+url = "https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb"

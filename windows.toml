@@ -98,7 +98,22 @@
   name = "Anki - flash card reader"
   url = "https://apps.ankiweb.net/"
 
-
 [[url_list]]
   name = "Microsoft Teams"
   url = "https://www.microsoft.com/en-au/microsoft-teams/download-app#desktopAppDownloadregion"
+
+[[url_list]]
+  name = "Node JS"
+  url = "https://nodejs.org/en/"
+
+[[url_list]]
+  name = "Garmin - GPS"
+  url = "https://www.garmin.com/en-AU/software/express/windows/"
+
+[[url_list]]
+  name = "QGIS"
+  url = "https://www.qgis.org/en/site/forusers/download.html#"
+
+[[url_list]]
+  name = "Trading View"
+  url = "https://www.tradingview.com/desktop/"
