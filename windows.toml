@@ -117,3 +117,31 @@
 [[url_list]]
   name = "Trading View"
   url = "https://www.tradingview.com/desktop/"
+
+[[url_list]]
+  name = "Docker"
+  url = "https://www.docker.com/products/docker-desktop/"
+
+[[url_list]]
+  name = "HWIFO - PC hardware Monitoring"
+  url = "https://www.hwinfo.com/download/"
+
+[[url_list]]
+  name = "Chocolatey"
+  url = "https://chocolatey.org/install"
+
+[[url_list]]
+  name = "Samsung Installer"
+  url = "https://semiconductor.samsung.com/consumer-storage/support/tools/"
+
+[[url_list]]
+  name = "Tableau Public"
+  url = "https://www.tableau.com/en-us/downloads/public/pc64"
+
+[[url_list]]
+  name = "R studio"
+  url = "https://posit.co/download/rstudio-desktop/"
+
+[[url_list]]
+  name = "Speccy"
+  "https://www.ccleaner.com/download"

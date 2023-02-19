@@ -121,3 +121,7 @@
 [[url_list]]
   name = "Trading View"
   url = "https://www.tradingview.com/desktop/"
+
+[[url_list]]
+  name = "Tableau Mac"
+  url = "https://www.tableau.com/en-us/downloads/public/mac"
