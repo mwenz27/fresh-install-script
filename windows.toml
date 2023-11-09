@@ -145,3 +145,11 @@
 [[url_list]]
   name = "Speccy"
   "https://www.ccleaner.com/download"
+
+[[url_list]]
+  name = "Notion"
+  url = "https://www.notion.so/desktop"
+
+[[url_list]]
+  name = "doodly"
+  url = "http://www.doodly.net/download/win64"

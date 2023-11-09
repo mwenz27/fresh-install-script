@@ -125,3 +125,27 @@
 [[url_list]]
   name = "Tableau Mac"
   url = "https://www.tableau.com/en-us/downloads/public/mac"
+
+[[url_list]]
+  name = "Github desktop"
+  url = "https://desktop.github.com/"
+
+[[url_list]]
+  name = "Disk Inventory X"
+  url = "https://derlien.com/downloads/index.html"
+
+[[url_list]]
+  name = "Notion"
+  url = "https://www.notion.so/desktop"
+
+[[url_list]]
+  name = "doodly"
+  url = "https://www.doodly.net/download/osx"
+
+[[url_list]]
+  name = "Krita"
+  url = "https://krita.org/en/post-download-page/"
+
+[[url_list]]
+  name = "insta360 studio"
+  url = "https://www.insta360.com/download/"
