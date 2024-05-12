@@ -73,3 +73,24 @@
 [[apps]]
   name = "KeePassXC, a password manager"
   app = "keepassxc"
+
+[[apps]]
+  name = "Insta360"
+  app = "insta360"
+
+[[apps]]
+  name = "Blackmagic Design - DaVinci Resolve"
+  app = "davinciresolve"
+
+[[apps]]
+  name = "Notion"
+  app = "notion"
+
+[[apps]]
+  name = "Inkscape"
+  app = "inkscape"
+
+[[apps]]
+  name = "OBS Studio"
+  app = "obs"
+

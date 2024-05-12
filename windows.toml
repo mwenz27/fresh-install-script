@@ -144,4 +144,28 @@
 
 [[url_list]]
   name = "Speccy"
-  "https://www.ccleaner.com/download"
+  url =  "https://www.ccleaner.com/download"
+
+[[url_list]]
+  name = "Thonny - small python program"
+  url = "https://thonny.org/"
+
+[[url_list]]
+  name = "OBS Studio - video capture"
+  url = "https://obsproject.com/download"
+
+[[url_list]]
+  name = "Insta360 - video processing "
+  url = "https://www.insta360.com/download"
+
+[[url_list]]
+  name = "Blackmagic Design - DaVinci Resolve - video processing"
+  url = "https://www.blackmagicdesign.com/au/products/davinciresolve"
+
+[[url_list]]
+  name = "Notion"
+  url = "https://www.notion.so/download"
+
+[[url_list]]
+  name = "Inkscape"
+  url = "https://inkscape.org/release/inkscape-1.3.2/windows/64-bit/msi/?redirected=1"
