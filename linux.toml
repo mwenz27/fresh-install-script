@@ -94,3 +94,10 @@
   name = "OBS Studio"
   app = "obs"
 
+[[apps]]
+  name = "OBS Studio"
+  app = "obs"
+
+[[apps]]
+  name = "Kindle"
+  app = "kindle"

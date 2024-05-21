@@ -139,9 +139,41 @@
   url = "https://www.blackmagicdesign.com/au/products/davinciresolve"
 
 [[url_list]]
-  name = "Notion"
+  name = "Notion - Productivity"
   url = "https://www.notion.so/download"
 
 [[url_list]]
-  name = "Inkscape"
+  name = "Obsidian - Productivity "
+  url = "https://obsidian.md/download"
+
+[[url_list]]
+  name = "Inkscape - Vector art"
   url = "https://inkscape.org/release/inkscape-1.3.2/windows/64-bit/msi/?redirected=1"
+
+[[url_list]]
+  name = "Kindle - ebook reading"
+  url = "https://www.amazon.com/b?ie=UTF8&node=16571048011"
+
+[[url_list]]
+  name = "AZDOME - GPS dashcam video"
+  url = "http://forum.azdome.hk/forum.php?mod=viewthread&tid=737&page=1&extra=#pid966"
+
+[[url_list]]
+  name = "Gplates - earth software"
+  url = "https://www.gplates.org/download/"
+
+[[url_list]]
+  name = "Trello, board list"
+  url = "https://trello.com/platforms"
+
+[[url_list]]
+  name = "FreeCAD, downloads"
+  url = "https://www.freecad.org/downloads.php"
+
+[[url_list]]
+  name = "DiffusionBee, homepage"
+  url = "https://diffusionbee.com/"
+
+[[url_list]]
+  name = "Draw.io Desktop, release v24.4.0"
+  url = "https://github.com/jgraph/drawio-desktop/releases/tag/v24.4.0"
